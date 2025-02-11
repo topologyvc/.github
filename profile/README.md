@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/topologyvc/.github/main/assets/logo-dark.png">
-  <img alt="topology logo" src="https://raw.githubusercontent.com/topologyvc/.github/main/assets/logo-light.png" width="auto" height="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/topologyvc/.github/main/assets/logo_dark.png">
+  <img alt="topology logo" src="https://raw.githubusercontent.com/topologyvc/.github/main/assets/logo_light.png" width="auto" height="120">
 </picture>
 
 [Topology](https://topology.vc/) is a frontier tech venture firm with an engineering-first approach.
